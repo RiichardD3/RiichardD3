@@ -1,6 +1,14 @@
-## Olá eu sou o Richard👋
+## Olá eu sou o Richard👋 
+tenho 21 anos e sou de Juiz de Fora/MG
 
 -📚 Atualmente fazendo tecnólogo em DevOps. 
+
+-🖥 Apaixonado por Computadores desde o meu primeiro PC em 2009.
+
+ Eu fiz alguns cursos quando Criança sendo eles :
+- Operador de Computador (concluído em 2016)
+- Web Designer (concluído em 2017)
+
 
 
 <div align="center">
