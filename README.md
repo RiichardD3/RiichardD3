@@ -1,6 +1,6 @@
-### Olá eu sou o Richard👋
+## Olá eu sou o Richard👋
 
--📚 Atualmente fazendo tecnologo em DevOps. 
+-📚 Atualmente fazendo tecnólogo em DevOps. 
 
 
 <div align="center">
