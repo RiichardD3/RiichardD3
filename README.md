@@ -1,5 +1,5 @@
 ## Olá eu sou o Richard👋 
-tenho 21 anos e sou de Juiz de Fora/MG
+Eu tenho 21 anos e moro de Juiz de Fora/MG
 
 -📚 Atualmente fazendo tecnólogo em DevOps. 
 
