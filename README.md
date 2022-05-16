@@ -1,7 +1,7 @@
 ## Olá eu sou o Richard👋 
 Eu tenho 21 anos e moro de Juiz de Fora/MG
 
--📚 Atualmente fazendo tecnólogo em DevOps. 
+-📚 Atualmente fazendo tecnólogo em Desenvolvimento FullStack. 
 
 -🖥 Apaixonado por Computadores desde o meu primeiro PC em 2009.
 
