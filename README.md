@@ -1,5 +1,5 @@
 ## Olá eu sou o Richard👋 
-Eu tenho 22anos e moro de Juiz de Fora/MG
+Eu tenho 22 anos e moro de Juiz de Fora/MG
 
 -📚 Dev. FULL STACK. 
 
